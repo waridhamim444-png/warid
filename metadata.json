@@ -1,0 +1,6 @@
+{
+  "name": "Amazon FBA Business Analysis Assistant",
+  "description": "An Amazon FBA diagnostic platform providing automated Google Sheets/CSV case data entry, root-cause analysis, missing data audits, review velocity strategies, and risk verification with strict fact vs assumption separation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
